@@ -2,7 +2,7 @@
 
 A tiny, dependency-free Python script that generates a 32x32 pixel-art avatar and writes it out as PNG files.
 
-![avatar](parag-pixel.png)
+![avatar](person.png)
 
 ## How it works
 
