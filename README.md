@@ -2,7 +2,11 @@
 
 A tiny, dependency-free Python script that generates a 32x32 pixel-art avatar and writes it out as PNG files.
 
-![avatar](person.png)
+| Photo | Pixelated |
+| --- | --- |
+| <img src="person.png" width="256" alt="photo"> | <img src="person/person-pixel.png" width="256" alt="pixelated avatar"> |
+
+The pixelated version was generated from `person.png` with `python3 pixelate.py person.png` (see [Generating a sprite from any image](#generating-a-sprite-from-any-image)).
 
 ## How it works
 
